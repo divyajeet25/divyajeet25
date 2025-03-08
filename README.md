@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=divyajeet25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=divyajeet25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyajeet25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeGoura&theme=react&area=true&hide_border=false" height="300" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyajeet25&theme=react&area=true&hide_border=false" height="300" alt="GitHub Activity Graph"/>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
