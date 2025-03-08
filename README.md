@@ -31,7 +31,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=divyajeet25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+### 🐍 Divya,s snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/codeGoura/codeGoura/output/snake.svg" alt="Snake animation" />
 </p>
