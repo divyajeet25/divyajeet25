@@ -17,7 +17,7 @@
 - 📫 How to reach me **divyajeetparida7@gmail.com**
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divyajeet25&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=divyajeet25&theme=shadow_green&no-frame=false&bg=true&margin-w=6)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divx.legend_king) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@divya-creations) 
