@@ -38,5 +38,5 @@
 
 ### 🐍 Divya,s snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/divyajeet25/divyajeet25/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/code gaura/code gaura/output/snake.svg" alt="Snake animation" />
 </p>
