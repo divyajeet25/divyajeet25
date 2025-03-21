@@ -41,6 +41,6 @@
   <img src="https://raw.githubusercontent.com/codeGoura/codeGoura/output/snake.svg" alt="Snake animation" />
 </p>
 
-##Certifications:
-https://www.hackerrank.com/certificates/9613a69e7ccd
+
+
 
